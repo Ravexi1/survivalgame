@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      survivaltiles_0: 8550250579201730481
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
