@@ -3,21 +3,58 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "map.tmx",
     "expandedProjectPaths": [
+        ".",
+        "Rules"
     ],
     "fileStates": {
+        "Rules/survivalrules.tmx": {
+            "scale": 5.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 80.54545454545455,
+                "y": 35.27272727272728
+            }
+        },
+        "map 1.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 261.5,
+                "y": 180.5
+            }
+        },
+        "map.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 201.5,
+                "y": 98
+            }
+        },
+        "survivaltiles.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 8
+        }
     },
     "last.imagePath": "C:/Users/User/Desktop/unityprojects/survival/survivalgame/survival/Assets/Tiled",
-    "map.height": 1500,
+    "map.height": 30,
     "map.lastUsedFormat": "tmx",
     "map.tileHeight": 8,
     "map.tileWidth": 8,
-    "map.width": 1500,
+    "map.width": 30,
     "openFiles": [
+        "map.tmx",
+        "Rules/survivalrules.tmx",
+        "survivaltiles.tsx"
     ],
     "project": "survival.tiled-project",
     "recentFiles": [
+        "survivaltiles.tsx",
+        "Rules/survivalrules.tmx",
+        "map.tmx",
+        "map 1.tmx"
     ],
     "tileset.lastUsedFormat": "tsx",
     "tileset.tileSize": {

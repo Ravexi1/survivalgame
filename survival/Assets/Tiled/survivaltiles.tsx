@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.10" tiledversion="1.11.1" name="survivaltiles" tilewidth="8" tileheight="8" tilecount="1024" columns="32">
  <image source="survivaltiles.png" width="256" height="256"/>
+ <tile id="6" probability="0.005"/>
+ <tile id="38" probability="0.005"/>
+ <tile id="39" probability="0.005"/>
  <wangsets>
   <wangset name="Ground" type="corner" tile="-1">
    <wangcolor name="Dirt" color="#ff0000" tile="-1" probability="1"/>
